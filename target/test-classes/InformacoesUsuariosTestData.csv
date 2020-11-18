@@ -1,4 +1,4 @@
-testAdicionarUmaInformaçãoUsuario,tipo,contato,mensagem,Duration(ms)
-"",Phone,+551199999122,Your contact has been added!,1032.0
-"",Phone,+551199999123,Your contact has been added!,1465.0
-"",Phone,+551199999124,Your contact has been added!,1893.0
+testAdicionarUmaInformaçãoUsuario,tipo,contato,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",Phone,+551199999122,Your contact has been added!,835.0,835.0,835.0,835.0
+"",Phone,+551199999123,Your contact has been added!,1086.0,1086.0,1086.0,1086.0
+"",Phone,+551199999124,Your contact has been added!,955.0,955.0,955.0,955.0
