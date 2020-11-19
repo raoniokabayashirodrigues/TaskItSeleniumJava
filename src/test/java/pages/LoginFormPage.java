@@ -8,7 +8,6 @@ public class LoginFormPage {
         this.navegador = navegador;
     }
 
-    public ? typeEmail(String email){
-
-    }
+//    public ? typeEmail(String email){
+//    }
 }

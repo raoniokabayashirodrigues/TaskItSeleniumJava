@@ -7,6 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Web {
     public static WebDriver createChrome(){
+
         //Configura o WebDriver
         System.setProperty("webdriver.chrome.driver","C:/cmder/chromedriver.exe");
         WebDriver navegador = new ChromeDriver();

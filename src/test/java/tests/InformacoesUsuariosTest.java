@@ -30,6 +30,7 @@ import java.util.concurrent.TimeUnit;
 public class InformacoesUsuariosTest {
     private WebDriver navegador;
 
+    //Colhe o nome do método atual exempro: removerUmaContaDeUmUsuario foi substituido por test.getMethodName()
     @Rule
     public TestName test = new TestName();
 
